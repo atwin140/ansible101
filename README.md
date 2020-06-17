@@ -144,7 +144,6 @@ Test your new server
  - `ansible all -m ping`  
 
 
-
 Write a playbook to:
   - Update all the servers
   - Install httpd on your server
